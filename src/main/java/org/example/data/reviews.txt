@@ -1,0 +1,663 @@
+bookId:B000001,userId:AD002,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000001,userId:AD003,rating:5,comment:Truyện hay dễ đọc
+bookId:B000001,userId:AD004,rating:4,comment:Nhân vật thú vị
+bookId:B000001,userId:AD005,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000001,userId:AD006,rating:5,comment:Truyện hay dễ đọc
+bookId:B000001,userId:AD007,rating:4,comment:Cốt truyện logic
+bookId:B000001,userId:AD008,rating:4,comment:Nội dung hấp dẫn
+bookId:B000001,userId:AD009,rating:5,comment:Truyện hay dễ đọc
+bookId:B000001,userId:AD010,rating:3,comment:Cốt truyện logic
+bookId:B000001,userId:AD011,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000001,userId:AD012,rating:5,comment:Tuyệt vời!
+bookId:B000001,userId:AD013,rating:3,comment:Tuyệt vời!
+bookId:B000001,userId:AD014,rating:5,comment:Nội dung hấp dẫn
+bookId:B000001,userId:AD015,rating:5,comment:Cốt truyện logic
+bookId:B000001,userId:AD016,rating:5,comment:Nhân vật thú vị
+bookId:B000001,userId:AD017,rating:4,comment:Tuyệt vời!
+bookId:B000001,userId:AD018,rating:5,comment:Nhân vật thú vị
+bookId:B000001,userId:AD019,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000001,userId:AD020,rating:4,comment:Nhân vật thú vị
+bookId:B000001,userId:AD021,rating:4,comment:Nội dung hấp dẫn
+bookId:B000001,userId:AD022,rating:5,comment:Nhân vật thú vị
+bookId:B000001,userId:AD023,rating:5,comment:Rất cuốn hút
+bookId:B000001,userId:AD024,rating:3,comment:Nhân vật thú vị
+bookId:B000001,userId:AD025,rating:5,comment:Nhân vật thú vị
+bookId:B000001,userId:AD026,rating:3,comment:Nhân vật thú vị
+bookId:B000001,userId:AD027,rating:5,comment:Khá hay
+bookId:B000001,userId:AD028,rating:3,comment:Nhân vật thú vị
+bookId:B000001,userId:AD029,rating:3,comment:Nội dung hấp dẫn
+bookId:B000001,userId:AD030,rating:5,comment:Nội dung hấp dẫn
+bookId:B000001,userId:AD031,rating:3,comment:Rất cuốn hút
+bookId:B000001,userId:AD032,rating:4,comment:Khá hay
+bookId:B000001,userId:AD033,rating:3,comment:Tuyệt vời!
+bookId:B000001,userId:AD034,rating:3,comment:Truyện hay dễ đọc
+bookId:B000001,userId:AD035,rating:5,comment:Nội dung hấp dẫn
+bookId:B000001,userId:AD036,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000001,userId:AD037,rating:3,comment:Nội dung hấp dẫn
+bookId:B000001,userId:AD038,rating:5,comment:Khá hay
+bookId:B000001,userId:AD039,rating:3,comment:Khá hay
+bookId:B000001,userId:AD040,rating:4,comment:Rất cuốn hút
+bookId:B000001,userId:AD041,rating:4,comment:Truyện hay dễ đọc
+bookId:B000001,userId:AD042,rating:5,comment:Cốt truyện logic
+bookId:B000001,userId:AD043,rating:3,comment:Cốt truyện logic
+bookId:B000001,userId:AD044,rating:5,comment:Tuyệt vời!
+bookId:B000001,userId:AD045,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000001,userId:AD046,rating:4,comment:Hình ảnh đẹp
+bookId:B000001,userId:AD047,rating:4,comment:Rất cuốn hút
+bookId:B000001,userId:AD048,rating:5,comment:Tuyệt vời!
+bookId:B000001,userId:AD049,rating:5,comment:Hình ảnh đẹp
+bookId:B000001,userId:AD050,rating:5,comment:Nội dung hấp dẫn
+bookId:B000001,userId:AD009,rating:3,comment:Hình ảnh đẹp
+bookId:B000001,userId:AD003,rating:5,comment:Truyện hay dễ đọc
+bookId:B000001,userId:AD046,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000001,userId:AD027,rating:3,comment:Khá hay
+bookId:B000001,userId:AD045,rating:3,comment:Khá hay
+bookId:B000001,userId:AD050,rating:3,comment:Khá hay
+bookId:B000001,userId:AD022,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000001,userId:AD017,rating:5,comment:Rất cuốn hút
+bookId:B000001,userId:AD030,rating:3,comment:Nhân vật thú vị
+bookId:B000001,userId:AD020,rating:5,comment:Cốt truyện logic
+bookId:B000002,userId:AD019,rating:3,comment:Nội dung hấp dẫn
+bookId:B000002,userId:AD030,rating:5,comment:Truyện hay dễ đọc
+bookId:B000002,userId:AD001,rating:4,comment:Nhân vật thú vị
+bookId:B000002,userId:AD038,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000002,userId:AD043,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000002,userId:AD029,rating:4,comment:Nội dung hấp dẫn
+bookId:B000002,userId:AD027,rating:4,comment:Hình ảnh đẹp
+bookId:B000002,userId:AD017,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000002,userId:AD018,rating:3,comment:Nội dung hấp dẫn
+bookId:B000002,userId:AD028,rating:5,comment:Cốt truyện logic
+bookId:B000003,userId:AD048,rating:4,comment:Nội dung hấp dẫn
+bookId:B000003,userId:AD021,rating:3,comment:Rất cuốn hút
+bookId:B000003,userId:AD042,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000003,userId:AD047,rating:3,comment:Nội dung hấp dẫn
+bookId:B000003,userId:AD035,rating:3,comment:Nhân vật thú vị
+bookId:B000003,userId:AD023,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000003,userId:AD001,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000003,userId:AD024,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000003,userId:AD033,rating:5,comment:Hình ảnh đẹp
+bookId:B000003,userId:AD004,rating:3,comment:Nhân vật thú vị
+bookId:B000004,userId:AD007,rating:4,comment:Khá hay
+bookId:B000004,userId:AD050,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000004,userId:AD034,rating:5,comment:Hình ảnh đẹp
+bookId:B000004,userId:AD011,rating:3,comment:Khá hay
+bookId:B000004,userId:AD036,rating:5,comment:Cốt truyện logic
+bookId:B000004,userId:AD017,rating:4,comment:Nội dung hấp dẫn
+bookId:B000004,userId:AD012,rating:4,comment:Truyện hay dễ đọc
+bookId:B000004,userId:AD014,rating:4,comment:Rất cuốn hút
+bookId:B000004,userId:AD013,rating:4,comment:Nội dung hấp dẫn
+bookId:B000004,userId:AD027,rating:3,comment:Truyện hay dễ đọc
+bookId:B000005,userId:AD048,rating:4,comment:Khá hay
+bookId:B000005,userId:AD034,rating:3,comment:Truyện hay dễ đọc
+bookId:B000005,userId:AD008,rating:3,comment:Tuyệt vời!
+bookId:B000005,userId:AD010,rating:3,comment:Khá hay
+bookId:B000005,userId:AD033,rating:3,comment:Nội dung hấp dẫn
+bookId:B000005,userId:AD005,rating:4,comment:Nhân vật thú vị
+bookId:B000005,userId:AD031,rating:3,comment:Hình ảnh đẹp
+bookId:B000005,userId:AD017,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000005,userId:AD016,rating:4,comment:Nội dung hấp dẫn
+bookId:B000005,userId:AD024,rating:3,comment:Khá hay
+bookId:B000006,userId:AD019,rating:4,comment:Nhân vật thú vị
+bookId:B000006,userId:AD039,rating:5,comment:Rất cuốn hút
+bookId:B000006,userId:AD036,rating:5,comment:Nội dung hấp dẫn
+bookId:B000006,userId:AD047,rating:4,comment:Nhân vật thú vị
+bookId:B000006,userId:AD004,rating:5,comment:Nhân vật thú vị
+bookId:B000006,userId:AD033,rating:3,comment:Nội dung hấp dẫn
+bookId:B000006,userId:AD008,rating:3,comment:Cốt truyện logic
+bookId:B000006,userId:AD007,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000006,userId:AD027,rating:5,comment:Truyện hay dễ đọc
+bookId:B000006,userId:AD037,rating:4,comment:Rất cuốn hút
+bookId:B000007,userId:AD014,rating:5,comment:Khá hay
+bookId:B000007,userId:AD028,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000007,userId:AD037,rating:4,comment:Nội dung hấp dẫn
+bookId:B000007,userId:AD018,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000007,userId:AD045,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000007,userId:AD049,rating:3,comment:Nhân vật thú vị
+bookId:B000007,userId:AD006,rating:4,comment:Nội dung hấp dẫn
+bookId:B000007,userId:AD002,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000007,userId:AD019,rating:5,comment:Hình ảnh đẹp
+bookId:B000007,userId:AD047,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000008,userId:AD045,rating:3,comment:Nhân vật thú vị
+bookId:B000008,userId:AD050,rating:3,comment:Truyện hay dễ đọc
+bookId:B000008,userId:AD011,rating:5,comment:Cốt truyện logic
+bookId:B000008,userId:AD013,rating:3,comment:Khá hay
+bookId:B000008,userId:AD044,rating:4,comment:Nhân vật thú vị
+bookId:B000008,userId:AD004,rating:4,comment:Nội dung hấp dẫn
+bookId:B000008,userId:AD041,rating:4,comment:Khá hay
+bookId:B000008,userId:AD027,rating:4,comment:Truyện hay dễ đọc
+bookId:B000008,userId:AD021,rating:3,comment:Cốt truyện logic
+bookId:B000008,userId:AD009,rating:5,comment:Khá hay
+bookId:B000009,userId:AD024,rating:5,comment:Nội dung hấp dẫn
+bookId:B000009,userId:AD025,rating:3,comment:Nhân vật thú vị
+bookId:B000009,userId:AD033,rating:3,comment:Tuyệt vời!
+bookId:B000009,userId:AD043,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000009,userId:AD019,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000009,userId:AD047,rating:5,comment:Tuyệt vời!
+bookId:B000009,userId:AD012,rating:4,comment:Rất cuốn hút
+bookId:B000009,userId:AD004,rating:5,comment:Tuyệt vời!
+bookId:B000009,userId:AD013,rating:3,comment:Truyện hay dễ đọc
+bookId:B000009,userId:AD030,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000010,userId:AD023,rating:5,comment:Nhân vật thú vị
+bookId:B000010,userId:AD035,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000010,userId:AD046,rating:4,comment:Nội dung hấp dẫn
+bookId:B000010,userId:AD034,rating:5,comment:Khá hay
+bookId:B000010,userId:AD013,rating:3,comment:Hình ảnh đẹp
+bookId:B000010,userId:AD016,rating:5,comment:Nhân vật thú vị
+bookId:B000010,userId:AD004,rating:4,comment:Rất cuốn hút
+bookId:B000010,userId:AD029,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000010,userId:AD009,rating:3,comment:Truyện hay dễ đọc
+bookId:B000010,userId:AD043,rating:4,comment:Nhân vật thú vị
+bookId:B000011,userId:AD021,rating:5,comment:Rất cuốn hút
+bookId:B000011,userId:AD006,rating:3,comment:Nội dung hấp dẫn
+bookId:B000011,userId:AD041,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000011,userId:AD039,rating:3,comment:Cốt truyện logic
+bookId:B000011,userId:AD048,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000011,userId:AD014,rating:5,comment:Rất cuốn hút
+bookId:B000011,userId:AD036,rating:3,comment:Tuyệt vời!
+bookId:B000011,userId:AD011,rating:3,comment:Truyện hay dễ đọc
+bookId:B000011,userId:AD016,rating:4,comment:Nhân vật thú vị
+bookId:B000011,userId:AD023,rating:3,comment:Khá hay
+bookId:B000012,userId:AD033,rating:4,comment:Truyện hay dễ đọc
+bookId:B000012,userId:AD009,rating:3,comment:Cốt truyện logic
+bookId:B000012,userId:AD010,rating:4,comment:Hình ảnh đẹp
+bookId:B000012,userId:AD030,rating:5,comment:Truyện hay dễ đọc
+bookId:B000012,userId:AD003,rating:3,comment:Khá hay
+bookId:B000012,userId:AD034,rating:5,comment:Tuyệt vời!
+bookId:B000012,userId:AD017,rating:5,comment:Cốt truyện logic
+bookId:B000012,userId:AD048,rating:4,comment:Rất cuốn hút
+bookId:B000012,userId:AD001,rating:5,comment:Nhân vật thú vị
+bookId:B000012,userId:AD049,rating:4,comment:Rất cuốn hút
+bookId:B000013,userId:AD033,rating:3,comment:Khá hay
+bookId:B000013,userId:AD001,rating:5,comment:Cốt truyện logic
+bookId:B000013,userId:AD027,rating:3,comment:Rất cuốn hút
+bookId:B000013,userId:AD044,rating:4,comment:Cốt truyện logic
+bookId:B000013,userId:AD006,rating:5,comment:Truyện hay dễ đọc
+bookId:B000013,userId:AD028,rating:4,comment:Rất cuốn hút
+bookId:B000013,userId:AD002,rating:3,comment:Cốt truyện logic
+bookId:B000013,userId:AD024,rating:5,comment:Nhân vật thú vị
+bookId:B000013,userId:AD003,rating:5,comment:Cốt truyện logic
+bookId:B000013,userId:AD021,rating:5,comment:Hình ảnh đẹp
+bookId:B000014,userId:AD022,rating:5,comment:Tuyệt vời!
+bookId:B000014,userId:AD013,rating:3,comment:Nội dung hấp dẫn
+bookId:B000014,userId:AD025,rating:5,comment:Khá hay
+bookId:B000014,userId:AD046,rating:4,comment:Truyện hay dễ đọc
+bookId:B000014,userId:AD003,rating:3,comment:Tuyệt vời!
+bookId:B000014,userId:AD049,rating:4,comment:Rất cuốn hút
+bookId:B000014,userId:AD005,rating:3,comment:Truyện hay dễ đọc
+bookId:B000014,userId:AD034,rating:3,comment:Nội dung hấp dẫn
+bookId:B000014,userId:AD010,rating:3,comment:Cốt truyện logic
+bookId:B000014,userId:AD009,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000015,userId:AD019,rating:3,comment:Hình ảnh đẹp
+bookId:B000015,userId:AD048,rating:5,comment:Tuyệt vời!
+bookId:B000015,userId:AD037,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000015,userId:AD008,rating:4,comment:Hình ảnh đẹp
+bookId:B000015,userId:AD010,rating:3,comment:Cốt truyện logic
+bookId:B000015,userId:AD009,rating:5,comment:Tuyệt vời!
+bookId:B000015,userId:AD014,rating:5,comment:Nội dung hấp dẫn
+bookId:B000015,userId:AD029,rating:5,comment:Truyện hay dễ đọc
+bookId:B000015,userId:AD007,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000015,userId:AD040,rating:3,comment:Hình ảnh đẹp
+bookId:B000016,userId:AD009,rating:3,comment:Khá hay
+bookId:B000016,userId:AD008,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000016,userId:AD049,rating:5,comment:Nội dung hấp dẫn
+bookId:B000016,userId:AD037,rating:3,comment:Hình ảnh đẹp
+bookId:B000016,userId:AD031,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000016,userId:AD015,rating:3,comment:Nội dung hấp dẫn
+bookId:B000016,userId:AD016,rating:3,comment:Truyện hay dễ đọc
+bookId:B000016,userId:AD022,rating:5,comment:Nội dung hấp dẫn
+bookId:B000016,userId:AD041,rating:3,comment:Nội dung hấp dẫn
+bookId:B000016,userId:AD046,rating:3,comment:Cốt truyện logic
+bookId:B000017,userId:AD005,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000017,userId:AD042,rating:3,comment:Tuyệt vời!
+bookId:B000017,userId:AD018,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000017,userId:AD041,rating:3,comment:Cốt truyện logic
+bookId:B000017,userId:AD017,rating:3,comment:Khá hay
+bookId:B000017,userId:AD034,rating:3,comment:Hình ảnh đẹp
+bookId:B000017,userId:AD003,rating:3,comment:Nội dung hấp dẫn
+bookId:B000017,userId:AD023,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000017,userId:AD040,rating:3,comment:Nhân vật thú vị
+bookId:B000017,userId:AD027,rating:4,comment:Truyện hay dễ đọc
+bookId:B000018,userId:AD026,rating:4,comment:Nội dung hấp dẫn
+bookId:B000018,userId:AD004,rating:3,comment:Nội dung hấp dẫn
+bookId:B000018,userId:AD044,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000018,userId:AD034,rating:3,comment:Nhân vật thú vị
+bookId:B000018,userId:AD028,rating:3,comment:Truyện hay dễ đọc
+bookId:B000018,userId:AD010,rating:4,comment:Nhân vật thú vị
+bookId:B000018,userId:AD008,rating:3,comment:Khá hay
+bookId:B000018,userId:AD047,rating:5,comment:Nội dung hấp dẫn
+bookId:B000018,userId:AD002,rating:4,comment:Khá hay
+bookId:B000018,userId:AD017,rating:5,comment:Khá hay
+bookId:B000019,userId:AD038,rating:4,comment:Hình ảnh đẹp
+bookId:B000019,userId:AD036,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000019,userId:AD012,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000019,userId:AD011,rating:5,comment:Tuyệt vời!
+bookId:B000019,userId:AD020,rating:4,comment:Nhân vật thú vị
+bookId:B000019,userId:AD001,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000019,userId:AD027,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000019,userId:AD050,rating:3,comment:Rất cuốn hút
+bookId:B000019,userId:AD034,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000019,userId:AD045,rating:4,comment:Tuyệt vời!
+bookId:B000020,userId:AD001,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000020,userId:AD047,rating:3,comment:Cốt truyện logic
+bookId:B000020,userId:AD002,rating:5,comment:Hình ảnh đẹp
+bookId:B000020,userId:AD028,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000020,userId:AD003,rating:3,comment:Khá hay
+bookId:B000020,userId:AD005,rating:4,comment:Tuyệt vời!
+bookId:B000020,userId:AD044,rating:3,comment:Rất cuốn hút
+bookId:B000020,userId:AD030,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000020,userId:AD017,rating:3,comment:Khá hay
+bookId:B000020,userId:AD009,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000021,userId:AD017,rating:4,comment:Cốt truyện logic
+bookId:B000021,userId:AD029,rating:3,comment:Cốt truyện logic
+bookId:B000021,userId:AD021,rating:4,comment:Khá hay
+bookId:B000021,userId:AD043,rating:3,comment:Khá hay
+bookId:B000021,userId:AD041,rating:5,comment:Nhân vật thú vị
+bookId:B000021,userId:AD003,rating:4,comment:Nhân vật thú vị
+bookId:B000021,userId:AD031,rating:4,comment:Cốt truyện logic
+bookId:B000021,userId:AD022,rating:4,comment:Nội dung hấp dẫn
+bookId:B000021,userId:AD045,rating:4,comment:Nhân vật thú vị
+bookId:B000021,userId:AD046,rating:5,comment:Tuyệt vời!
+bookId:B000022,userId:AD024,rating:3,comment:Tuyệt vời!
+bookId:B000022,userId:AD007,rating:5,comment:Truyện hay dễ đọc
+bookId:B000022,userId:AD031,rating:5,comment:Nhân vật thú vị
+bookId:B000022,userId:AD050,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000022,userId:AD033,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000022,userId:AD003,rating:3,comment:Khá hay
+bookId:B000022,userId:AD001,rating:4,comment:Hình ảnh đẹp
+bookId:B000022,userId:AD010,rating:3,comment:Cốt truyện logic
+bookId:B000022,userId:AD049,rating:3,comment:Truyện hay dễ đọc
+bookId:B000022,userId:AD042,rating:5,comment:Rất cuốn hút
+bookId:B000023,userId:AD028,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000023,userId:AD010,rating:3,comment:Nhân vật thú vị
+bookId:B000023,userId:AD030,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000023,userId:AD004,rating:4,comment:Cốt truyện logic
+bookId:B000023,userId:AD027,rating:3,comment:Nhân vật thú vị
+bookId:B000023,userId:AD050,rating:5,comment:Nội dung hấp dẫn
+bookId:B000023,userId:AD039,rating:4,comment:Nội dung hấp dẫn
+bookId:B000023,userId:AD003,rating:4,comment:Hình ảnh đẹp
+bookId:B000023,userId:AD023,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000023,userId:AD042,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000024,userId:AD033,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000024,userId:AD001,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000024,userId:AD019,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000024,userId:AD046,rating:5,comment:Nhân vật thú vị
+bookId:B000024,userId:AD038,rating:4,comment:Truyện hay dễ đọc
+bookId:B000024,userId:AD028,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000024,userId:AD021,rating:4,comment:Hình ảnh đẹp
+bookId:B000024,userId:AD015,rating:4,comment:Hình ảnh đẹp
+bookId:B000024,userId:AD036,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000024,userId:AD031,rating:3,comment:Rất cuốn hút
+bookId:B000025,userId:AD030,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000025,userId:AD022,rating:4,comment:Cốt truyện logic
+bookId:B000025,userId:AD001,rating:5,comment:Nội dung hấp dẫn
+bookId:B000025,userId:AD026,rating:3,comment:Nội dung hấp dẫn
+bookId:B000025,userId:AD039,rating:3,comment:Khá hay
+bookId:B000025,userId:AD032,rating:5,comment:Truyện hay dễ đọc
+bookId:B000025,userId:AD048,rating:3,comment:Tuyệt vời!
+bookId:B000025,userId:AD006,rating:3,comment:Khá hay
+bookId:B000025,userId:AD004,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000025,userId:AD003,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000026,userId:AD018,rating:5,comment:Truyện hay dễ đọc
+bookId:B000026,userId:AD010,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000026,userId:AD037,rating:4,comment:Tuyệt vời!
+bookId:B000026,userId:AD041,rating:5,comment:Tuyệt vời!
+bookId:B000026,userId:AD046,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000026,userId:AD001,rating:4,comment:Nội dung hấp dẫn
+bookId:B000026,userId:AD014,rating:5,comment:Truyện hay dễ đọc
+bookId:B000026,userId:AD035,rating:4,comment:Tuyệt vời!
+bookId:B000026,userId:AD012,rating:4,comment:Nhân vật thú vị
+bookId:B000026,userId:AD030,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000027,userId:AD042,rating:4,comment:Hình ảnh đẹp
+bookId:B000027,userId:AD031,rating:3,comment:Rất cuốn hút
+bookId:B000027,userId:AD020,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000027,userId:AD007,rating:4,comment:Tuyệt vời!
+bookId:B000027,userId:AD013,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000027,userId:AD009,rating:5,comment:Hình ảnh đẹp
+bookId:B000027,userId:AD039,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000027,userId:AD047,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000027,userId:AD045,rating:5,comment:Truyện hay dễ đọc
+bookId:B000027,userId:AD028,rating:3,comment:Cốt truyện logic
+bookId:B000028,userId:AD046,rating:3,comment:Khá hay
+bookId:B000028,userId:AD021,rating:5,comment:Tuyệt vời!
+bookId:B000028,userId:AD031,rating:3,comment:Cốt truyện logic
+bookId:B000028,userId:AD011,rating:5,comment:Cốt truyện logic
+bookId:B000028,userId:AD016,rating:3,comment:Khá hay
+bookId:B000028,userId:AD027,rating:5,comment:Cốt truyện logic
+bookId:B000028,userId:AD007,rating:3,comment:Nhân vật thú vị
+bookId:B000028,userId:AD005,rating:4,comment:Hình ảnh đẹp
+bookId:B000028,userId:AD042,rating:4,comment:Nhân vật thú vị
+bookId:B000028,userId:AD003,rating:3,comment:Khá hay
+bookId:B000029,userId:AD029,rating:5,comment:Nhân vật thú vị
+bookId:B000029,userId:AD002,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000029,userId:AD049,rating:5,comment:Khá hay
+bookId:B000029,userId:AD028,rating:3,comment:Khá hay
+bookId:B000029,userId:AD041,rating:5,comment:Truyện hay dễ đọc
+bookId:B000029,userId:AD022,rating:5,comment:Rất cuốn hút
+bookId:B000029,userId:AD027,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000029,userId:AD017,rating:4,comment:Truyện hay dễ đọc
+bookId:B000029,userId:AD011,rating:4,comment:Nhân vật thú vị
+bookId:B000029,userId:AD037,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000030,userId:AD026,rating:5,comment:Rất cuốn hút
+bookId:B000030,userId:AD025,rating:3,comment:Nội dung hấp dẫn
+bookId:B000030,userId:AD038,rating:5,comment:Nhân vật thú vị
+bookId:B000030,userId:AD008,rating:3,comment:Truyện hay dễ đọc
+bookId:B000030,userId:AD032,rating:3,comment:Tuyệt vời!
+bookId:B000030,userId:AD007,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000030,userId:AD037,rating:3,comment:Nhân vật thú vị
+bookId:B000030,userId:AD034,rating:5,comment:Nội dung hấp dẫn
+bookId:B000030,userId:AD021,rating:3,comment:Nhân vật thú vị
+bookId:B000030,userId:AD002,rating:4,comment:Hình ảnh đẹp
+bookId:B000031,userId:AD004,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000031,userId:AD016,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000031,userId:AD048,rating:3,comment:Truyện hay dễ đọc
+bookId:B000031,userId:AD014,rating:5,comment:Cốt truyện logic
+bookId:B000031,userId:AD032,rating:4,comment:Tuyệt vời!
+bookId:B000031,userId:AD043,rating:5,comment:Hình ảnh đẹp
+bookId:B000031,userId:AD003,rating:5,comment:Cốt truyện logic
+bookId:B000031,userId:AD012,rating:3,comment:Khá hay
+bookId:B000031,userId:AD039,rating:4,comment:Khá hay
+bookId:B000031,userId:AD017,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000032,userId:AD034,rating:5,comment:Tuyệt vời!
+bookId:B000032,userId:AD010,rating:3,comment:Nội dung hấp dẫn
+bookId:B000032,userId:AD005,rating:5,comment:Hình ảnh đẹp
+bookId:B000032,userId:AD007,rating:4,comment:Cốt truyện logic
+bookId:B000032,userId:AD040,rating:5,comment:Truyện hay dễ đọc
+bookId:B000032,userId:AD027,rating:5,comment:Cốt truyện logic
+bookId:B000032,userId:AD038,rating:3,comment:Nội dung hấp dẫn
+bookId:B000032,userId:AD045,rating:3,comment:Truyện hay dễ đọc
+bookId:B000032,userId:AD032,rating:4,comment:Khá hay
+bookId:B000032,userId:AD022,rating:4,comment:Nội dung hấp dẫn
+bookId:B000033,userId:AD039,rating:5,comment:Nhân vật thú vị
+bookId:B000033,userId:AD040,rating:4,comment:Khá hay
+bookId:B000033,userId:AD017,rating:3,comment:Tuyệt vời!
+bookId:B000033,userId:AD045,rating:4,comment:Khá hay
+bookId:B000033,userId:AD015,rating:3,comment:Rất cuốn hút
+bookId:B000033,userId:AD030,rating:4,comment:Cốt truyện logic
+bookId:B000033,userId:AD032,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000033,userId:AD018,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000033,userId:AD007,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000033,userId:AD023,rating:3,comment:Cốt truyện logic
+bookId:B000034,userId:AD007,rating:3,comment:Nội dung hấp dẫn
+bookId:B000034,userId:AD025,rating:5,comment:Hình ảnh đẹp
+bookId:B000034,userId:AD038,rating:4,comment:Cốt truyện logic
+bookId:B000034,userId:AD011,rating:3,comment:Hình ảnh đẹp
+bookId:B000034,userId:AD034,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000034,userId:AD017,rating:3,comment:Khá hay
+bookId:B000034,userId:AD041,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000034,userId:AD004,rating:3,comment:Nhân vật thú vị
+bookId:B000034,userId:AD016,rating:3,comment:Nhân vật thú vị
+bookId:B000034,userId:AD039,rating:4,comment:Tuyệt vời!
+bookId:B000035,userId:AD041,rating:4,comment:Truyện hay dễ đọc
+bookId:B000035,userId:AD035,rating:5,comment:Tuyệt vời!
+bookId:B000035,userId:AD048,rating:4,comment:Nội dung hấp dẫn
+bookId:B000035,userId:AD022,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000035,userId:AD016,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000035,userId:AD037,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000035,userId:AD012,rating:5,comment:Khá hay
+bookId:B000035,userId:AD033,rating:3,comment:Khá hay
+bookId:B000035,userId:AD008,rating:4,comment:Nội dung hấp dẫn
+bookId:B000035,userId:AD042,rating:3,comment:Nội dung hấp dẫn
+bookId:B000036,userId:AD017,rating:4,comment:Nội dung hấp dẫn
+bookId:B000036,userId:AD001,rating:4,comment:Cốt truyện logic
+bookId:B000036,userId:AD012,rating:5,comment:Nhân vật thú vị
+bookId:B000036,userId:AD044,rating:3,comment:Truyện hay dễ đọc
+bookId:B000036,userId:AD023,rating:4,comment:Rất cuốn hút
+bookId:B000036,userId:AD007,rating:5,comment:Nội dung hấp dẫn
+bookId:B000036,userId:AD015,rating:3,comment:Khá hay
+bookId:B000036,userId:AD045,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000036,userId:AD037,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000036,userId:AD003,rating:3,comment:Khá hay
+bookId:B000037,userId:AD039,rating:3,comment:Nội dung hấp dẫn
+bookId:B000037,userId:AD036,rating:4,comment:Nhân vật thú vị
+bookId:B000037,userId:AD003,rating:3,comment:Nhân vật thú vị
+bookId:B000037,userId:AD022,rating:5,comment:Nội dung hấp dẫn
+bookId:B000037,userId:AD007,rating:5,comment:Rất cuốn hút
+bookId:B000037,userId:AD008,rating:4,comment:Hình ảnh đẹp
+bookId:B000037,userId:AD043,rating:3,comment:Nội dung hấp dẫn
+bookId:B000037,userId:AD013,rating:5,comment:Truyện hay dễ đọc
+bookId:B000037,userId:AD027,rating:3,comment:Tuyệt vời!
+bookId:B000037,userId:AD032,rating:5,comment:Truyện hay dễ đọc
+bookId:B000038,userId:AD023,rating:4,comment:Nội dung hấp dẫn
+bookId:B000038,userId:AD036,rating:5,comment:Cốt truyện logic
+bookId:B000038,userId:AD008,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000038,userId:AD039,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000038,userId:AD031,rating:3,comment:Rất cuốn hút
+bookId:B000038,userId:AD009,rating:5,comment:Khá hay
+bookId:B000038,userId:AD007,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000038,userId:AD015,rating:4,comment:Nội dung hấp dẫn
+bookId:B000038,userId:AD003,rating:4,comment:Tuyệt vời!
+bookId:B000038,userId:AD044,rating:3,comment:Truyện hay dễ đọc
+bookId:B000039,userId:AD050,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000039,userId:AD023,rating:4,comment:Truyện hay dễ đọc
+bookId:B000039,userId:AD009,rating:3,comment:Tuyệt vời!
+bookId:B000039,userId:AD008,rating:3,comment:Rất cuốn hút
+bookId:B000039,userId:AD006,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000039,userId:AD039,rating:4,comment:Nội dung hấp dẫn
+bookId:B000039,userId:AD032,rating:4,comment:Truyện hay dễ đọc
+bookId:B000039,userId:AD033,rating:5,comment:Hình ảnh đẹp
+bookId:B000039,userId:AD007,rating:3,comment:Truyện hay dễ đọc
+bookId:B000039,userId:AD042,rating:3,comment:Rất cuốn hút
+bookId:B000040,userId:AD047,rating:4,comment:Hình ảnh đẹp
+bookId:B000040,userId:AD025,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000040,userId:AD026,rating:5,comment:Truyện hay dễ đọc
+bookId:B000040,userId:AD019,rating:5,comment:Cốt truyện logic
+bookId:B000040,userId:AD050,rating:4,comment:Tuyệt vời!
+bookId:B000040,userId:AD011,rating:4,comment:Khá hay
+bookId:B000040,userId:AD033,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000040,userId:AD006,rating:3,comment:Nhân vật thú vị
+bookId:B000040,userId:AD008,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000040,userId:AD044,rating:4,comment:Tuyệt vời!
+bookId:B000041,userId:AD008,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000041,userId:AD015,rating:3,comment:Rất cuốn hút
+bookId:B000041,userId:AD036,rating:3,comment:Tuyệt vời!
+bookId:B000041,userId:AD004,rating:4,comment:Khá hay
+bookId:B000041,userId:AD012,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000041,userId:AD006,rating:3,comment:Nội dung hấp dẫn
+bookId:B000041,userId:AD027,rating:4,comment:Cốt truyện logic
+bookId:B000041,userId:AD021,rating:3,comment:Truyện hay dễ đọc
+bookId:B000041,userId:AD041,rating:5,comment:Cốt truyện logic
+bookId:B000041,userId:AD049,rating:5,comment:Nội dung hấp dẫn
+bookId:B000042,userId:AD015,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000042,userId:AD030,rating:3,comment:Tuyệt vời!
+bookId:B000042,userId:AD019,rating:4,comment:Nhân vật thú vị
+bookId:B000042,userId:AD031,rating:4,comment:Rất cuốn hút
+bookId:B000042,userId:AD043,rating:4,comment:Truyện hay dễ đọc
+bookId:B000042,userId:AD012,rating:3,comment:Nội dung hấp dẫn
+bookId:B000042,userId:AD047,rating:5,comment:Khá hay
+bookId:B000042,userId:AD050,rating:5,comment:Nhân vật thú vị
+bookId:B000042,userId:AD042,rating:4,comment:Hình ảnh đẹp
+bookId:B000042,userId:AD023,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000043,userId:AD049,rating:4,comment:Truyện hay dễ đọc
+bookId:B000043,userId:AD033,rating:3,comment:Rất cuốn hút
+bookId:B000043,userId:AD020,rating:5,comment:Cốt truyện logic
+bookId:B000043,userId:AD010,rating:3,comment:Nhân vật thú vị
+bookId:B000043,userId:AD041,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000043,userId:AD034,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000043,userId:AD024,rating:4,comment:Rất cuốn hút
+bookId:B000043,userId:AD026,rating:5,comment:Nội dung hấp dẫn
+bookId:B000043,userId:AD045,rating:4,comment:Hình ảnh đẹp
+bookId:B000043,userId:AD044,rating:3,comment:Khá hay
+bookId:B000044,userId:AD001,rating:3,comment:Hình ảnh đẹp
+bookId:B000044,userId:AD022,rating:5,comment:Hình ảnh đẹp
+bookId:B000044,userId:AD034,rating:3,comment:Truyện hay dễ đọc
+bookId:B000044,userId:AD042,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000044,userId:AD036,rating:5,comment:Nội dung hấp dẫn
+bookId:B000044,userId:AD033,rating:5,comment:Nội dung hấp dẫn
+bookId:B000044,userId:AD018,rating:4,comment:Khá hay
+bookId:B000044,userId:AD029,rating:4,comment:Nhân vật thú vị
+bookId:B000044,userId:AD027,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000044,userId:AD028,rating:3,comment:Cốt truyện logic
+bookId:B000045,userId:AD036,rating:4,comment:Truyện hay dễ đọc
+bookId:B000045,userId:AD037,rating:5,comment:Truyện hay dễ đọc
+bookId:B000045,userId:AD026,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000045,userId:AD012,rating:4,comment:Nội dung hấp dẫn
+bookId:B000045,userId:AD042,rating:4,comment:Cốt truyện logic
+bookId:B000045,userId:AD020,rating:5,comment:Tuyệt vời!
+bookId:B000045,userId:AD028,rating:4,comment:Rất cuốn hút
+bookId:B000045,userId:AD025,rating:4,comment:Khá hay
+bookId:B000045,userId:AD039,rating:3,comment:Truyện hay dễ đọc
+bookId:B000045,userId:AD029,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000046,userId:AD050,rating:4,comment:Cốt truyện logic
+bookId:B000046,userId:AD018,rating:5,comment:Hình ảnh đẹp
+bookId:B000046,userId:AD023,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000046,userId:AD022,rating:4,comment:Rất cuốn hút
+bookId:B000046,userId:AD034,rating:3,comment:Hình ảnh đẹp
+bookId:B000046,userId:AD035,rating:5,comment:Rất cuốn hút
+bookId:B000046,userId:AD026,rating:3,comment:Nội dung hấp dẫn
+bookId:B000046,userId:AD016,rating:3,comment:Rất cuốn hút
+bookId:B000046,userId:AD049,rating:3,comment:Cốt truyện logic
+bookId:B000046,userId:AD005,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000047,userId:AD036,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000047,userId:AD004,rating:5,comment:Rất cuốn hút
+bookId:B000047,userId:AD012,rating:5,comment:Cốt truyện logic
+bookId:B000047,userId:AD042,rating:3,comment:Rất cuốn hút
+bookId:B000047,userId:AD038,rating:5,comment:Khá hay
+bookId:B000047,userId:AD021,rating:5,comment:Nội dung hấp dẫn
+bookId:B000047,userId:AD005,rating:5,comment:Truyện hay dễ đọc
+bookId:B000047,userId:AD037,rating:5,comment:Tuyệt vời!
+bookId:B000047,userId:AD002,rating:3,comment:Cốt truyện logic
+bookId:B000047,userId:AD017,rating:5,comment:Hình ảnh đẹp
+bookId:B000048,userId:AD031,rating:4,comment:Truyện hay dễ đọc
+bookId:B000048,userId:AD018,rating:3,comment:Cốt truyện logic
+bookId:B000048,userId:AD006,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000048,userId:AD010,rating:5,comment:Tuyệt vời!
+bookId:B000048,userId:AD035,rating:4,comment:Khá hay
+bookId:B000048,userId:AD019,rating:5,comment:Tuyệt vời!
+bookId:B000048,userId:AD047,rating:4,comment:Hình ảnh đẹp
+bookId:B000048,userId:AD007,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000048,userId:AD025,rating:3,comment:Nhân vật thú vị
+bookId:B000048,userId:AD022,rating:4,comment:Tuyệt vời!
+bookId:B000049,userId:AD044,rating:3,comment:Cốt truyện logic
+bookId:B000049,userId:AD039,rating:5,comment:Tuyệt vời!
+bookId:B000049,userId:AD036,rating:5,comment:Nhân vật thú vị
+bookId:B000049,userId:AD005,rating:3,comment:Nội dung hấp dẫn
+bookId:B000049,userId:AD006,rating:3,comment:Nhân vật thú vị
+bookId:B000049,userId:AD010,rating:5,comment:Nhân vật thú vị
+bookId:B000049,userId:AD016,rating:4,comment:Tuyệt vời!
+bookId:B000049,userId:AD028,rating:4,comment:Nhân vật thú vị
+bookId:B000049,userId:AD002,rating:3,comment:Khá hay
+bookId:B000049,userId:AD012,rating:5,comment:Nhân vật thú vị
+bookId:B000050,userId:AD041,rating:3,comment:Nhân vật thú vị
+bookId:B000050,userId:AD035,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000050,userId:AD003,rating:5,comment:Tuyệt vời!
+bookId:B000050,userId:AD020,rating:3,comment:Cốt truyện logic
+bookId:B000050,userId:AD001,rating:4,comment:Tuyệt vời!
+bookId:B000050,userId:AD049,rating:5,comment:Truyện hay dễ đọc
+bookId:B000050,userId:AD033,rating:4,comment:Nhân vật thú vị
+bookId:B000050,userId:AD016,rating:3,comment:Nội dung hấp dẫn
+bookId:B000050,userId:AD039,rating:5,comment:Cốt truyện logic
+bookId:B000050,userId:AD025,rating:3,comment:Tuyệt vời!
+bookId:B000051,userId:AD016,rating:3,comment:Nhân vật thú vị
+bookId:B000051,userId:AD009,rating:5,comment:Nhân vật thú vị
+bookId:B000051,userId:AD021,rating:3,comment:Hình ảnh đẹp
+bookId:B000051,userId:AD037,rating:5,comment:Hình ảnh đẹp
+bookId:B000051,userId:AD023,rating:5,comment:Nội dung hấp dẫn
+bookId:B000051,userId:AD029,rating:3,comment:Hình ảnh đẹp
+bookId:B000051,userId:AD017,rating:4,comment:Hình ảnh đẹp
+bookId:B000051,userId:AD001,rating:4,comment:Khá hay
+bookId:B000051,userId:AD028,rating:4,comment:Tuyệt vời!
+bookId:B000051,userId:AD049,rating:4,comment:Tuyệt vời!
+bookId:B000052,userId:AD007,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000052,userId:AD022,rating:4,comment:Cốt truyện logic
+bookId:B000052,userId:AD030,rating:5,comment:Nội dung hấp dẫn
+bookId:B000052,userId:AD013,rating:5,comment:Nhân vật thú vị
+bookId:B000052,userId:AD006,rating:3,comment:Nội dung hấp dẫn
+bookId:B000052,userId:AD050,rating:3,comment:Nhân vật thú vị
+bookId:B000052,userId:AD044,rating:4,comment:Truyện hay dễ đọc
+bookId:B000052,userId:AD010,rating:4,comment:Rất cuốn hút
+bookId:B000052,userId:AD025,rating:4,comment:Nội dung hấp dẫn
+bookId:B000052,userId:AD040,rating:3,comment:Nhân vật thú vị
+bookId:B000053,userId:AD004,rating:5,comment:Nhân vật thú vị
+bookId:B000053,userId:AD041,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000053,userId:AD034,rating:5,comment:Nội dung hấp dẫn
+bookId:B000053,userId:AD012,rating:5,comment:Rất cuốn hút
+bookId:B000053,userId:AD023,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000053,userId:AD044,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000053,userId:AD046,rating:5,comment:Truyện hay dễ đọc
+bookId:B000053,userId:AD019,rating:5,comment:Tuyệt vời!
+bookId:B000053,userId:AD033,rating:3,comment:Cốt truyện logic
+bookId:B000053,userId:AD025,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000054,userId:AD050,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000054,userId:AD049,rating:4,comment:Tuyệt vời!
+bookId:B000054,userId:AD030,rating:4,comment:Truyện hay dễ đọc
+bookId:B000054,userId:AD024,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000054,userId:AD017,rating:4,comment:Cốt truyện logic
+bookId:B000054,userId:AD033,rating:4,comment:Cốt truyện logic
+bookId:B000054,userId:AD009,rating:5,comment:Nhân vật thú vị
+bookId:B000054,userId:AD031,rating:3,comment:Truyện hay dễ đọc
+bookId:B000054,userId:AD005,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000054,userId:AD042,rating:4,comment:Rất cuốn hút
+bookId:B000055,userId:AD022,rating:3,comment:Truyện hay dễ đọc
+bookId:B000055,userId:AD050,rating:4,comment:Cốt truyện logic
+bookId:B000055,userId:AD036,rating:4,comment:Nội dung hấp dẫn
+bookId:B000055,userId:AD007,rating:3,comment:Rất cuốn hút
+bookId:B000055,userId:AD029,rating:5,comment:Nội dung hấp dẫn
+bookId:B000055,userId:AD037,rating:5,comment:Truyện hay dễ đọc
+bookId:B000055,userId:AD035,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000055,userId:AD017,rating:3,comment:Truyện hay dễ đọc
+bookId:B000055,userId:AD014,rating:4,comment:Nội dung hấp dẫn
+bookId:B000055,userId:AD004,rating:4,comment:Hình ảnh đẹp
+bookId:B000056,userId:AD022,rating:4,comment:Rất cuốn hút
+bookId:B000056,userId:AD044,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000056,userId:AD013,rating:5,comment:Tuyệt vời!
+bookId:B000056,userId:AD030,rating:5,comment:Khá hay
+bookId:B000056,userId:AD045,rating:4,comment:Cốt truyện logic
+bookId:B000056,userId:AD012,rating:4,comment:Nội dung hấp dẫn
+bookId:B000056,userId:AD040,rating:3,comment:Cốt truyện logic
+bookId:B000056,userId:AD021,rating:5,comment:Rất cuốn hút
+bookId:B000056,userId:AD003,rating:5,comment:Hình ảnh đẹp
+bookId:B000056,userId:AD038,rating:3,comment:Truyện hay dễ đọc
+bookId:B000057,userId:AD043,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000057,userId:AD030,rating:5,comment:Hình ảnh đẹp
+bookId:B000057,userId:AD044,rating:4,comment:Nhân vật thú vị
+bookId:B000057,userId:AD002,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000057,userId:AD004,rating:3,comment:Nhân vật thú vị
+bookId:B000057,userId:AD036,rating:4,comment:Khá hay
+bookId:B000057,userId:AD026,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000057,userId:AD023,rating:3,comment:Rất cuốn hút
+bookId:B000057,userId:AD028,rating:3,comment:Hình ảnh đẹp
+bookId:B000057,userId:AD042,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000058,userId:AD012,rating:5,comment:Hình ảnh đẹp
+bookId:B000058,userId:AD003,rating:3,comment:Khá hay
+bookId:B000058,userId:AD004,rating:5,comment:Tuyệt vời!
+bookId:B000058,userId:AD034,rating:3,comment:Hình ảnh đẹp
+bookId:B000058,userId:AD043,rating:5,comment:Rất cuốn hút
+bookId:B000058,userId:AD039,rating:3,comment:Tuyệt vời!
+bookId:B000058,userId:AD030,rating:5,comment:Hình ảnh đẹp
+bookId:B000058,userId:AD023,rating:4,comment:Nội dung hấp dẫn
+bookId:B000058,userId:AD031,rating:5,comment:Hình ảnh đẹp
+bookId:B000058,userId:AD042,rating:3,comment:Rất cuốn hút
+bookId:B000059,userId:AD012,rating:3,comment:Truyện hay dễ đọc
+bookId:B000059,userId:AD035,rating:3,comment:Nhân vật thú vị
+bookId:B000059,userId:AD036,rating:5,comment:Rất cuốn hút
+bookId:B000059,userId:AD024,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000059,userId:AD007,rating:3,comment:Hình ảnh đẹp
+bookId:B000059,userId:AD023,rating:4,comment:Rất cuốn hút
+bookId:B000059,userId:AD042,rating:4,comment:Nhân vật thú vị
+bookId:B000059,userId:AD017,rating:5,comment:Khá hay
+bookId:B000059,userId:AD037,rating:5,comment:Truyện hay dễ đọc
+bookId:B000059,userId:AD015,rating:5,comment:Khá hay
+bookId:B000060,userId:AD043,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000060,userId:AD024,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000060,userId:AD031,rating:4,comment:Khá hay
+bookId:B000060,userId:AD027,rating:5,comment:Nhân vật thú vị
+bookId:B000060,userId:AD017,rating:5,comment:Cốt truyện logic
+bookId:B000060,userId:AD004,rating:4,comment:Truyện hay dễ đọc
+bookId:B000060,userId:AD033,rating:5,comment:Nội dung hấp dẫn
+bookId:B000060,userId:AD041,rating:5,comment:Hài hước và ý nghĩa
+bookId:B000060,userId:AD037,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000060,userId:AD049,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000061,userId:AD025,rating:5,comment:Nhân vật thú vị
+bookId:B000061,userId:AD016,rating:3,comment:Hài hước và ý nghĩa
+bookId:B000061,userId:AD029,rating:3,comment:Rất cuốn hút
+bookId:B000061,userId:AD042,rating:4,comment:Đọc giải trí rất tốt
+bookId:B000061,userId:AD018,rating:5,comment:Hình ảnh đẹp
+bookId:B000061,userId:AD035,rating:3,comment:Nhân vật thú vị
+bookId:B000061,userId:AD011,rating:5,comment:Đọc giải trí rất tốt
+bookId:B000061,userId:AD048,rating:3,comment:Đọc giải trí rất tốt
+bookId:B000061,userId:AD006,rating:4,comment:Hài hước và ý nghĩa
+bookId:B000061,userId:AD046,rating:5,comment:Hình ảnh đẹp
+bookId:B000001,userId:AD001,rating:4,comment:Tuyệt Phẩm
+bookId:B000070,userId:AD024,rating:5,comment:Khá hay
+bookId:B000070,userId:AD022,rating:4,comment:Tuyệt vời
+bookId:B000070,userId:AD003,rating:2,comment:Tệ đối với tôi

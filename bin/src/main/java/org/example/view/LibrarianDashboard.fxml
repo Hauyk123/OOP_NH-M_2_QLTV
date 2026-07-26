@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane prefHeight="586.0" prefWidth="607.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.controller.LibrarianDashboardController">
+
+    <!-- Tiêu đề -->
+    <top>
+        <Label style="-fx-font-size: 24px; -fx-font-weight: bold;" text="Quản lý thư viện" BorderPane.alignment="CENTER" />
+    </top>
+
+    <!-- Nội dung chính -->
+    <center>
+        <VBox prefHeight="510.0" prefWidth="607.0" spacing="10">
+            <HBox alignment="CENTER" spacing="20">
+                <TableView fx:id="bookTable" prefHeight="400.0" prefWidth="272.0">
+                    <columns>
+                        <TableColumn fx:id="isbnColumn" text="ISBN" />
+                        <TableColumn fx:id="titleColumn" text="Tên sách" />
+                        <TableColumn fx:id="authorColumn" text="Tác giả" />
+                    </columns>
+                </TableView>
+
+                <TableView fx:id="memberTable" prefHeight="400.0" prefWidth="253.0">
+                    <columns>
+                        <TableColumn fx:id="memberIdColumn" text="ID" />
+                        <TableColumn fx:id="memberNameColumn" text="Tên" />
+                    </columns>
+                </TableView>
+            </HBox>
+
+            <HBox alignment="CENTER" spacing="10">
+                <Button fx:id="borrowBookButton" text="Mượn sách" />
+                <Button fx:id="returnBookButton" text="Trả sách" />
+                <Button fx:id="addBookButton" text="Thêm sách" />
+                <Button fx:id="removeBookButton" text="Xóa sách" />
+                <Button fx:id="addMemberButton" text="Thêm thành viên" />
+                <Button fx:id="removeMemberButton" text="Xóa thành viên" />
+            </HBox>
+         <ImageView fitHeight="117.0" fitWidth="629.0">
+            <image>
+               <Image url="@../../../../resources/pexels-jplenio-1103970.jpg" />
+            </image>
+         </ImageView>
+        </VBox>
+    </center>
+</BorderPane>

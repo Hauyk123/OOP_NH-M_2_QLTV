@@ -1,0 +1,70 @@
+B000062,Drive,Daniel H. Pink,20,9781594484804
+B000063,Outliers,Malcolm Gladwell,13,9780316017923
+B000060,Grit,Angela Duckworth,33,9781501111112
+B000061,Quiet,Susan Cain,37,9780307352156
+B000019,Don Quixote,Miguel de Cervantes,47,9780060934347
+B000017,Crime and Punishment,Fyodor Dostoevsky,12,9780486415871
+B000018,The Lord of the Rings,J.R.R. Tolkien,36,9780261103573
+B000015,The Chronicles of Narnia,C.S. Lewis,49,9780066238500
+B000059,Start with Why,Simon Sinek,36,9781591846445
+B000016,Les Misérables,Victor Hugo,34,9780451419439
+B000013,The Book Thief,Markus Zusak,42,9780375842207
+B000057,The Lean Startup,Eric Ries,22,9780307887894
+B000014,Wuthering Heights,Emily Brontë,17,9780141439556
+B000058,Deep Work,Cal Newport,44,9781455586691
+B000011,Moby-Dick,Herman Melville,46,9781503280786
+B000055,The Four Agreements,Don Miguel Ruiz,15,9781878424310
+B000012,Animal Farm,George Orwell,29,9780451526342
+B000056,How to Win Friends & Influence People,Dale Carnegie,48,9780671027033
+B000053,Man's Search for Meaning,Viktor E. Frankl,37,9780807014295
+B000010,Brave New World,Aldous Huxley,26,9780060850524
+B000054,The 7 Habits of Highly Effective People,Stephen R. Covey,11,9780743269513
+B000051,Rich Dad Poor Dad,Robert T. Kiyosaki,44,9781612680194
+B000052,Think and Grow Rich,Napoleon Hill,34,9781585424337
+B000050,The Subtle Art of Not Giving a F*ck,Mark Manson,31,9780062457714
+B000008,Fahrenheit 451,Ray Bradbury,34,9781451673319
+B000009,Jane Eyre,Charlotte Brontë,43,9780141441146
+B000006,The Catcher in the Rye,J.D. Salinger,12,9780316769174
+B000007,The Hobbit,J.R.R. Tolkien,40,9780261102217
+B000004,The Great Gatsby,F. Scott Fitzgerald,49,9780743273565
+B000048,Atomic Habits,James Clear,27,9780735211292
+B000005,Pride and Prejudice,Jane Austen,47,9781503290563
+B000049,The Power of Habit,Charles Duhigg,15,9780812981605
+B000002,To Kill a Mockingbird,Harper Lee,19,9780061120084
+B000046,The Goldfinch,Donna Tartt,31,9780316055444
+B000003,1984,George Orwell,11,9780451524935
+B000047,Sapiens,Yuval Noah Harari,39,9780062316097
+B000044,Educated,Tara Westover,46,9780399590504
+B000001,Harry Potter and the Philosopher's Stone,J.K. Rowling,23,9780439708180
+B000045,Becoming,Michelle Obama,30,9781524763138
+B000042,It,Stephen King,16,9781501142970
+B000043,A Man Called Ove,Fredrik Backman,37,9781476738024
+B000040,Memoirs of a Geisha,Arthur Golden,21,9780679781585
+B000041,Norwegian Wood,Haruki Murakami,13,9780375704024
+B000039,The Giver,Lois Lowry,14,9780544336261
+B000037,Dune,Frank Herbert,25,9780441172719
+B000038,The Road,Cormac McCarthy,36,9780307387899
+B000035,Catch-22,Joseph Heller,32,9781451626650
+B000036,The Fault in Our Stars,John Green,42,9780525478812
+B000033,The Hunger Games,Suzanne Collins,32,9780439023528
+B000034,A Clockwork Orange,Anthony Burgess,18,9780393312836
+B000031,The Picture of Dorian Gray,Oscar Wilde,22,9780141439572
+B000032,The Shining,Stephen King,42,9780307743657
+B000030,Slaughterhouse-Five,Kurt Vonnegut,19,9780440180296
+B000070,Can't Hurt Me,David Goggins,23,9781544512280
+B000028,Life of Pi,Yann Martel,47,9780156027328
+B000029,Gone with the Wind,Margaret Mitchell,26,9781451635621
+B000026,The Kite Runner,Khaled Hosseini,11,9781594631932
+B000027,Frankenstein,Mary Shelley,33,9780486282114
+B000024,The Da Vinci Code,Dan Brown,27,9780307474278
+B000068,Hooked,Nir Eyal,11,9781591847787
+B000025,A Tale of Two Cities,Charles Dickens,23,9780486417769
+B000069,The War of Art,Steven Pressfield,26,9781936891023
+B000022,Dracula,Bram Stoker,43,9780486411095
+B000066,Rework,Jason Fried & David Heinemeier Hansson,17,9780307463746
+B000023,The Grapes of Wrath,John Steinbeck,35,9780143039433
+B000067,Zero to One,Peter Thiel,35,9780804139298
+B000020,The Alchemist,Paulo Coelho,42,9780061122415
+B000064,Blink,Malcolm Gladwell,43,9780316010665
+B000021,The Little Prince,Antoine de Saint-Exupéry,25,9780156012195
+B000065,The Tipping Point,Malcolm Gladwell,32,9780316346627
