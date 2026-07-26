@@ -17,7 +17,7 @@ IDE khuyên dùng: IntelliJ IDEA, Eclipse, hoặc Visual Studio Code.
 Bước 1: Tải mã nguồn về máy
 Bạn có thể Clone dự án qua Git hoặc tải trực tiếp file ZIP:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Hauyk123/OOP_NH-M_2_QLTV.git
 
 
 (Lưu ý: Nhớ thay your-username/your-repo-name bằng link github thật của bạn)
